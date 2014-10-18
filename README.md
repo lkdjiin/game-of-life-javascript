@@ -5,6 +5,7 @@ This code is made to support a serie of blog posts I wrote in french.
 - [Le jeu de la vie dans 7 langages différents](http://lkdjiin.github.io/blog/2014/10/08/le-jeu-de-la-vie-dans-sept-langages-differents/)
 - [Javascript - partie 1](http://lkdjiin.github.io/blog/2014/10/16/le-jeu-de-la-vie-en-javascript-partie-1/)
 - [Javascript - partie 2](http://lkdjiin.github.io/blog/2014/10/17/le-jeu-de-la-vie-en-javascript-partie-2/)
+- [Javascript - partie 3](http://lkdjiin.github.io/blog/2014/10/18/le-jeu-de-la-vie-en-javascript-partie-3/)
 
 ## Installation
 
